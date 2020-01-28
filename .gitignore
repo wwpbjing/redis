@@ -1,5 +1,8 @@
 .*.swp
 *.o
+*.xo
+*.so
+*.d
 *.log
 dump.rdb
 redis-benchmark
@@ -29,5 +32,5 @@ deps/lua/src/liblua.a
 *.dSYM
 Makefile.dep
 
+.vscode/*
 .idea
-.gitignore
